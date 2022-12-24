@@ -1,5 +1,8 @@
 <h2 align="left">Marjia Siddik</h2>
 
+<h3 align="left">About Me::</h3>
+<p>Hi! I'm a first year computer science student.</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
