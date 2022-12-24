@@ -1,7 +1,8 @@
 <h2 align="left">Marjia Siddik</h2>
 
-<h3 align="left">About Me::</h3>
-<p>Hi! I'm a first year computer science student.</p>
+<h3 align="left">About Me:</h3>
+<p>hi! my name is marjia and i am a first year computer science student at Dublin City University.</p> <br>
+<p>here you will find public repositories for solutions to competitive programming sites such as 'Kattis' and 'Leetcode'.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
