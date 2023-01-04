@@ -13,5 +13,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenaHW13DG0WIxuTpSsBc4h4WBYZE6YImSZkuP0JMiSlItWoR39lvgznbqoO58OnuCJg&usqp=CAU" alt="r" width="40" height="40"/> 
+<img src="https://www.clipartmax.com/png/middle/13-137348_logo-r-programming.png" alt="r" width="40" height="40"/> 
 </p>
