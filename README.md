@@ -20,4 +20,4 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=marjiasdk&show_icons=true&theme=radical" alt="Marjia's Profile Statistics" align="left"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=marjiasdk&show_icons=true&theme=dracula" alt="Marjia's Profile Statistics" align="left"/></p>
