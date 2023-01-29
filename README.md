@@ -1,6 +1,5 @@
-<h2 align="left">Marjia Siddik</h2>
+<h2 align="left">About Me</h2>
 
-<h3 align="left">About Me:</h3>
 <p>Hi! My name is Marjia Siddik and I am a First Year Computer Science student at Dublin City University.</p>
 
 
