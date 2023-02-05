@@ -1,5 +1,7 @@
 ## About Me:
-Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.<br><br>I have a keen interest in Artificial Intelligence & Human-Computer Interactions.
+Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.<br>
+I have a keen interest in Artificial Intelligence & Human-Computer Interactions.<br>
+At the moment, my repositaries primarily consist of DCU related coursework & solutions to competitive programming platforms. I hope to release projects soon.
 
 
 ## Languages:
