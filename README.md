@@ -7,3 +7,4 @@ Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at D
 ## GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=marjiasdk&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marjiasdk&theme=maroongold&hide_border=false)<br/>
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={marjiasdk}
