@@ -1,11 +1,11 @@
 ## About Me:
-Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.<br></br>At the moment, my repositaries primarily consist of solutions to problems on competitive programming platforms & material to supplement my learning of languages. I hope to release projects soon.
+Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.<br>At the moment, my repositaries primarily consist of solutions to problems on competitive programming platforms & material to supplement my learning of languages. I hope to release projects soon.
 
 
 ## Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Frameworks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
