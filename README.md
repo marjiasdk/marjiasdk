@@ -1,5 +1,5 @@
 ## About Me:
-Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.<br>At the moment, my repositaries primarily consist of solutions to problems on competitive programming platforms & material to supplement my learning of languages. I hope to release projects soon.
+Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.<br></br>At the moment, my repositaries primarily consist of solutions to problems on competitive programming platforms & material to supplement my learning of languages. I hope to release projects soon.
 
 
 ## Languages:
