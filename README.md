@@ -1,9 +1,11 @@
 ## About Me:
-Hi, my name is Marjia Siddik, and I'm a first-year computer science student at Dublin City University.
-<br></br>
-I'm currently working on two projects: a Python banking application with a user interface and a chatbot with a user interface that uses NLP technology to generate responses. These projects have allowed me to hone my programming skills and explore new technologies.
-<br></br>
-In addition to my ongoing projects, I recently completed my personal portfolio website. It's currently hosted on Github pages and I'm excited to continue expanding it in the future.
+Hello, I'm Marjia Siddik, a first-year computer science student at Dublin City University.
+<br><\br>
+I've completed a personal portfolio website that showcases my skills in web development, and I'm currently working on three projects: a banking application with a user interface, a chatbot that uses natural language processing technology to generate responses, and a poetry website to promote my upcoming book. Through these projects, I'm developing my skills in Python, web development, and user interface design.
+<br><\br>
+In addition to my technical skills, I'm also interested in using technology to make a positive impact in the world. I'm currently researching the potential of artificial intelligence to improve healthcare in developing countries and exploring ways to apply my technical skills to solve global challenges.
+<br><\br>
+If you're interested in collaborating or learning more about my projects and skills, please feel free to get in touch. I'm always open to new ideas and opportunities to grow as a developer.
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
