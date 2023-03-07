@@ -1,5 +1,7 @@
 ## About Me:
-Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.<br></br>At the moment, my repositaries primarily consist of solutions to problems on competitive programming platforms & material to supplement my learning of languages. I hope to release projects soon.
+Hi! My name is Marjia Siddik and I am a First Year Computer Science Student at Dublin City University.
+<br></br>
+At the moment, I am working on two personal projects - a python banking application with a user interface & a chat bot with a user interface that uses NLP technology to formulate responses. Finished projects include my personal portfolio website which is currently hosted on github pages. 
 
 
 ## Languages:
