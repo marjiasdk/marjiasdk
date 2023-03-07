@@ -1,6 +1,6 @@
 ## About Me:
-Hello, I'm Marjia Siddik, a first-year computer science student at Dublin City University.
-<br>
+Hello, I'm Marjia Siddik, a first-year computer science student at Dublin City University.<br><\br>
+
 I've completed a personal portfolio website that showcases my skills in web development, and I'm currently working on three projects: a banking application with a user interface, a chatbot that uses natural language processing technology to generate responses, and a poetry website to promote my upcoming book. Through these projects, I'm developing my skills in Python, web development, and user interface design.
 <br>
 In addition to my technical skills, I'm also interested in using technology to make a positive impact in the world. I'm currently researching the potential of artificial intelligence to improve healthcare in developing countries and exploring ways to apply my technical skills to solve global challenges.
