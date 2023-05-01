@@ -1,6 +1,6 @@
 ## about me !
 <p> novice programmer with an interest in artificial intelligence, neural networks & cognitive computing. </p>
-<br></br>
+<br>
 <p> all repositories of mine are set to private, however i hope to make some public soon. </p>
 
 
