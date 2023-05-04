@@ -1,3 +1,9 @@
+## <i>about me:</i>
+hi! my name is marjia siddik & i am a computer science student at dublin city university.
+at the moment, many of my repositories are private, but i hope to release projects soon!
+
+![](https://i.pinimg.com/originals/6c/49/01/6c4901a02c1b54a728980d55c3f2e179.gif)
+
 ## <i>languages:</i>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
