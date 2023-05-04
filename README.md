@@ -1,6 +1,6 @@
 ## <i>about me:</i>
-hi! my name is marjia siddik & i am a computer science student at dublin city university.
-at the moment, many of my repositories are private, but i hope to release projects soon!
+Hi! My name is Marjia Siddik, and I am a Computer Science Student at Dublin City University. <br>
+At the moment, many of my repositories are private, but I hope to release projects soon!
 
 ![](https://i.pinimg.com/originals/6c/49/01/6c4901a02c1b54a728980d55c3f2e179.gif)
 
