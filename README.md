@@ -3,7 +3,7 @@ Hi! My name is Marjia Siddik, and I am a Computer Science Student at Dublin City
 
 At the moment, many of my repositories are private, but I hope to release projects soon!
 
-![]([https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif](https://24.media.tumblr.com/e5aee543344b2f7395b4cd8b61446017/tumblr_mii1yqSlHr1s05o6bo1_400.gif))
+![](https://24.media.tumblr.com/e5aee543344b2f7395b4cd8b61446017/tumblr_mii1yqSlHr1s05o6bo1_400.gif)
 
 ## <i>languages:</i>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
