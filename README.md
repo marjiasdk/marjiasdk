@@ -11,5 +11,4 @@ At the moment, many of my repositories are private, but I hope to release projec
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## <i>github statistics:</i>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marjiasdk&show_icons=true&locale=en" alt="marjiasdk" /></p><br/><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marjiasdk&theme=maroongold&hide_border=false)<br/>
