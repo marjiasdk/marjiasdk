@@ -11,5 +11,10 @@ At the moment, many of my repositories are private, but I hope to release projec
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+## <i>tools:</i>
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
 ## <i>github statistics:</i>
+![](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marjiasdk&theme=maroongold&hide_border=false)
