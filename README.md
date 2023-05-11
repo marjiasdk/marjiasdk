@@ -13,9 +13,13 @@ Hi! My name is Marjia Siddik, and I am a Computer Science Student at Dublin City
 ## <i> databases:</i>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## <i>tools:</i>
+## <i>design:</i>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## <i> version control:</i>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## <i>github statistics:</i>
 ![](https://github-readme-stats.vercel.app/api?username=marjiasdk&theme=maroongold)<br></br>
