@@ -1,9 +1,10 @@
 ## <i>about me:</i>
 Hi! My name is Marjia Siddik, and I am a Computer Science Student at Dublin City University. <br>
 
-At the moment, many of my repositories are private, but I hope to release projects soon!
+I have a solid foundation in web development and have completed a personal portfolio website that showcases my skills in this area. I have also completed a simple banking application in Python in order to improve my programming skills. Currently, I'm focused on creating a chatbot with a Tkinter GUI. These projects are helping me develop my skills in Python, web development, and user interface design.<br>
 
-![](https://24.media.tumblr.com/e5aee543344b2f7395b4cd8b61446017/tumblr_mii1yqSlHr1s05o6bo1_400.gif)
+If you're interested in collaborating or learning more about my skills and projects, please feel free to reach out. I'm always open to new ideas and opportunities!<br>
+
 
 ## <i>languages:</i>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
