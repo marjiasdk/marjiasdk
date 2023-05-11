@@ -4,7 +4,7 @@ Hi! My name is Marjia Siddik, and I am a Computer Science Student at Dublin City
 ## <i> programming languages:</i>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-[![Processing](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## <i> web development:</i>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
