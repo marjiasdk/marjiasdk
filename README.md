@@ -21,6 +21,6 @@ Hi! My name is Marjia Siddik, and I am a Computer Science Student at Dublin City
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## <i>Github Statistics:</i>
+## <i>GitHub Statistics:</i>
 ![](https://github-readme-stats.vercel.app/api?username=marjiasdk&theme=maroongold)<br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marjiasdk&theme=maroongold&hide_border=false)
