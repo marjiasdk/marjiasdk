@@ -1,5 +1,5 @@
 ## <i>About Me:</i>
-Hi! My name is Marjia Siddik, and I am a Computer Science Student at Dublin City University. <br>
+Hi! My name is Marjia Siddik, and I am a First-Year Computer Science Student at Dublin City University. <br>
 
 ## <i>Programming Languages:</i>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
