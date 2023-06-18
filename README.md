@@ -1,5 +1,5 @@
 ## <i>About Me:</i>
-First-Year Computer Science Student at Dublin City University. <br>
+Second-Year Computer Science Student at Dublin City University. <br>
 
 ## <i>Programming Languages:</i>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fffd54) 
