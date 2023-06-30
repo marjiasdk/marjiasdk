@@ -20,4 +20,4 @@ First-Year Computer Science Student at Dublin City University. <br>
 
 ## <i>GitHub Statistics:</i>
 ![](https://github-readme-stats.vercel.app/api?username=marjiasdk&theme=maroongold)<br></br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marjiasdk&theme=maroongold&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marjiasdk&theme=maroongold)
