@@ -1,6 +1,8 @@
 ## <i>About Me:</i>
 First-Year Computer Science Student at Dublin City University. <br>
 
+![image](https://github.com/marjiasdk/marjiasdk/assets/113689930/e125cb8c-3614-480e-979a-eb5855743147)
+
 ## <i>Programming Languages:</i>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fffd54) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
