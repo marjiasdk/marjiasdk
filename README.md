@@ -1,5 +1,5 @@
 ## <i>About Me:</i>
-First-Year Computer Science Student at Dublin City University, with a strong interest in Artificial Intelligence, Robotics, and Human-Computer Interactions. My future goals revolve around pursuing a career that encompasses both Artificial Intelligence and Robotics. I am particularly excited about engaging in research projects within these fields, aiming to contribute to their advancement and explore innovative solutions. <br>
+Second-Year Computer Science Student at Dublin City University. <br>
 
 ## <i>Programming Languages:</i>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fffd54) 
