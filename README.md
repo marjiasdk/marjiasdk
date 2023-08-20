@@ -3,7 +3,6 @@ Second-Year Computer Science Student at Dublin City University. <br>
 
 ## <i>Programming Languages:</i>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fffd54) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## <i>Web Development:</i>
