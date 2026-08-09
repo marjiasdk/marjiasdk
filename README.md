@@ -2,5 +2,5 @@ Marjia Siddik is an AI safety researcher who has been working in AI governance, 
 
 Her past work spans international security fellowships researching US-China cooperation on artificial superintelligence, alignment research on integrity failures in deployed AI systems, and policy work shaping Ireland's first AI governance framework for its national healthcare system. She previously co-founded Safentic, a runtime monitoring system for agentic AI behavior, and was recognized as Microsoft's youngest global MVP in Trustworthy AI.
 
-### Connect
-🌐 [marjiasdk.com](https://marjiasdk.com) · [LinkedIn](https://www.linkedin.com/in/marjiasdk/) · [ORCID](https://orcid.org/0009-0008-6295-6979)
+### Get in touch
+[Email](https://marjiasdk.com) · [LinkedIn](https://www.linkedin.com/in/marjiasdk/) · [Cal](https://cal.com/marjiasdk)
