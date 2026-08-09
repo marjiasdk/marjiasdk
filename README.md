@@ -1,13 +1,6 @@
-AI safety researcher and builder working on AI governance, alignment, and the transition to advanced AI.
+Marjia Siddik is an AI safety researcher who has been working in AI governance, alignment, and the societal transitions advanced AI will force since 2024. She is a PhD student in Computer Science at Trinity College Dublin, funded by the Government of Ireland Postgraduate Scholarship, researching runtime detection of harmful multi-agent AI coordination.
 
-- PhD student in Computer Science, Trinity College Dublin, researching runtime detection of harmful multi-agent AI coordination
-- Past research fellowships: Convergence Analysis (ASI governance), AI Safety Global Society (alignment), Groundless Alignment
-- 🚀 Previously co-founded Safentic — runtime monitoring for agentic AI behavior
-- 📄 Published work on AI governance, healthcare AI transparency, and post-AGI treaty frameworks
-
-### What I'm working on
-- Runtime detection of harmful multi-agent AI coordination (PhD research)
-- AI safety fieldbuilding and governance tooling for Global South contexts (Equiano Institute)
+Her past work spans international security fellowships researching US-China cooperation on artificial superintelligence, alignment research on integrity failures in deployed AI systems, and policy work shaping Ireland's first AI governance framework for its national healthcare system. She previously co-founded Safentic, a runtime monitoring system for agentic AI behavior, and was recognized as Microsoft's youngest global MVP in Trustworthy AI.
 
 ### Connect
 🌐 [marjiasdk.com](https://marjiasdk.com) · [LinkedIn](https://www.linkedin.com/in/marjiasdk/) · [ORCID](https://orcid.org/0009-0008-6295-6979)
